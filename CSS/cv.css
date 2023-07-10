@@ -1,0 +1,125 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Estilos para el encabezado */
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  /* Estilos para el perfil */
+  #perfil {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  #perfil img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+  }
+  
+  /* Estilos para el abstract */
+  #abstract {
+    margin-top: 20px;
+  }
+  
+  #abstract h2 {
+    margin-bottom: 10px;
+  }
+  
+  /* Estilos para la educación */
+  #educacion {
+    margin-top: 20px;
+  }
+  
+  #educacion article {
+    margin-bottom: 20px;
+  }
+  
+  #educacion h3 {
+    margin-bottom: 5px;
+  }
+  
+  /* Estilos para la experiencia profesional */
+  #experiencia {
+    margin-top: 20px;
+  }
+  
+  #experiencia article {
+    margin-bottom: 20px;
+  }
+  
+  #experiencia h3 {
+    margin-bottom: 5px;
+  }
+  
+  /* Estilos para hard skills y soft skills */
+  #hard-skills,
+  #soft-skills {
+    margin-top: 20px;
+  }
+  
+  #hard-skills ul,
+  #soft-skills ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  /* Estilos para el pie de página */
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  footer h3 {
+    margin: 0;
+  }
+  
+  footer ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    align-items: center;
+  }
+  
+  footer ul li {
+    margin-right: 10px;
+  }
+  
+  footer ul li a {
+    color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+  }
+  
+  /* Estilos para enlaces */
+  a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  

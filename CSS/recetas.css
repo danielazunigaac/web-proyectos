@@ -1,0 +1,41 @@
+.receta {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f1dfcd; /* Color nude */
+    border: 1px solid #E1D9D6; /* Color del borde */
+}
+
+.titulo {
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.imagen { object-fit: cover; 
+width: 50%;}
+
+.imagen-receta {
+    display: block;
+    max-width: 50%;
+    width: 100%;
+    height: 100%;
+    margin-bottom: 20px;
+}
+
+.ingredientes {
+    list-style-type: disc;
+    padding-left: 15px;
+}
+
+.procedimiento {
+    margin-top: 20px;
+}
+
+.procedimiento h2 {
+    list-style-type: disc;
+    padding-left: 15px;
+}
+
+.procedimiento p {
+    font-size: 16px;
+}

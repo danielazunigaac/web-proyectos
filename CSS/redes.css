@@ -1,0 +1,12 @@
+/*DOCUMENTOS CSS*/
+
+.cabecera { }
+
+.social{ }
+
+.container {display: flex;
+            width: 90%; 
+           margin: auto;} 
+
+a.item {width: 33.33%;
+        min-heigth: 200 px}           
